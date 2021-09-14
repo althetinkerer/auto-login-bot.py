@@ -1,0 +1,4 @@
+First of all import the webdrivers from the selenium library.
+Find the URL of the login page to which you want to logged in.
+Provide the location executable chrome driver to selenium webdriver to access the chrome browser.
+Finally, find the name or id or class or CSS selector of username and password by right-clicking inspect on username and password.
